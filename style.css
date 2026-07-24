@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  background-image: url(images\230874f91650b4ff14fd252ca115bbae.png);
+  background-image: url(images/230874f91650b4ff14fd252ca115bbae.png);
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -25,7 +25,7 @@ a, button {
   cursor: url('images/bouquetcursor.png'), pointer;
 }
 header {
-   background-image: url(images\be8489e330308ae8a1db3c21175c9f6c.jpg);
+   background-image: url(images/be8489e330308ae8a1db3c21175c9f6c.jpg);
    background-repeat: repeat;
    background-attachment: fixed;
    background-size: 100% 100%;
