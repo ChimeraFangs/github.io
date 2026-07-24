@@ -1,0 +1,51 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+body {
+  color: black;
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: antiquewhite;
+}
+
+body {
+  background-image: url(C:\Users\isapa\OneDrive\Desktop\websites\moonshine\images\230874f91650b4ff14fd252ca115bbae.png);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+body {
+  cursor: url('images/rosecursor.png'), auto;
+}
+
+a, button {
+  cursor: url('images/bouquetcursor.png'), pointer;
+}
+header {
+   background-image: url(C:\Users\isapa\OneDrive\Desktop\websites\moonshine\images\be8489e330308ae8a1db3c21175c9f6c.jpg);
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-size: 100% 100%;
+   text-align: center;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   padding: 45px;
+   
+}
+p {
+   font-family: myFont; /*MedievalSharp*/
+}
+
+h1 {
+  font-size: 45px;
+}
+
+#pagedoll {
+  position: fixed;
+  
+  top: 100px;
+  left:100px;
+}
